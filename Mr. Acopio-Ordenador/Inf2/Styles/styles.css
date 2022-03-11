@@ -1,0 +1,108 @@
+html{
+    background: #fff fixed no-repeat;
+    background-size:cover;
+    background-image: url('../Images/tipos-leche.jpg');
+    background-size: 120%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#L2{
+    border-style: solid;
+    width: 300px;   
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#EI{
+    color: white;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.inf{
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+    background-size: cover;
+    background-color: rgb(44, 44, 44);
+    margin-top: -100px;
+}
+.ingreso{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 200px 100px 200px;
+    grid-template-rows: 50px 50px 50px 50px 50px;
+    row-gap: 30px; 
+    border-radius: 28px;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+}
+input{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    border-color: rgb(214, 122, 29);
+    border-width: 3px;
+}
+::placeholder{
+    color: black;
+}
+#t2{
+    grid-column: 3/4;
+}
+#gt2{
+    grid-column: 3/4;
+}
+#t3{
+    grid-column: 1/2;
+}
+#t4{
+    grid-column: 3/4;
+}
+#t6{
+    grid-column: 3/4;
+}
+#t8{
+    grid-column: 2/3;
+    background-color: rgb(214, 122, 29);
+    border-color: black;
+    border-style: dashed;
+    font-size: 20px;
+}
+p{
+    color:white;
+    font-size: 20px;
+}
+select{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: peru;
+    border-width: 3px;
+}
+#b{
+    text-align: center;
+    background-color: rgb(214, 122, 29);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-bottom: 13px;
+    margin-left: 20px;
+}
+#t8:hover{
+    background-color: black;
+    color: rgb(214, 122, 29);
+    border-color: rgb(214, 122, 29);
+}
+a{
+    color: black;
+}
+a:hover{
+    color: peru;
+}
+

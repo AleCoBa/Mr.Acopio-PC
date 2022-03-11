@@ -1,0 +1,163 @@
+html{
+    background: #fff fixed no-repeat;
+    background-size:cover;
+    background-image: url('../Imagesi/tipos-leche.jpg');
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.upA{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top:-8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+#upL{
+    margin-left: 10px;
+    margin-top: 5px;
+    width:100px;
+}
+#upN{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 500px;
+    margin-left: 10px;
+}
+#T{
+    margin-top: 130px;
+}
+.inf{
+    border-style: solid;    
+    background-size: cover;
+    background-color: rgb(44, 44, 44);
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -100px;
+}
+.inf1{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: 10px;
+}
+#inf2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 15px;
+    color:white;
+    font-size: 25px;
+    text-align: left;
+}
+.inf3{
+    border-style: solid;
+    background-size: cover;
+    background-color: rgb(44, 44, 44);
+    margin-left: -8px;
+    margin-right: -8px;
+
+}
+.inf3_1{
+    display: flex;
+    flex-direction: row;
+}
+#inf3v{
+    text-align: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 15px;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+}
+
+#L2{
+    border-style: solid;
+    width: 300px;   
+    margin-top: 10px;
+}
+#Im2{
+    width: 250px;
+    height: 250px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 4px;
+}
+#Im3{
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 4px;
+}
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+}
+h1{
+    color: white; 
+    font-size: 40px;
+}
+#i1{
+    margin-top: 15px;
+}
+
+.Ingreso{
+    color:black;
+    border-color: black;
+    border-style: solid;
+    background: none;
+    font-size: 15px;
+    margin: 10px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+#b{
+    color: black;
+    background-color: rgb(214, 122, 29);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    border-style: dashed;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 13px;
+    margin-left: 20px;
+}
+#b:hover{
+    background-color: black;
+    color: rgb(214, 122, 29);
+    border-color: rgb(214, 122, 29);
+}
+a{
+    color: black;
+}
